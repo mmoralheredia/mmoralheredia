@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Maikel Moral</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&duration=3000&pause=1500&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Maikel+Moral;%F0%9F%92%BB+self-taught+%F0%9F%93%96%E2%9C%8D%F0%9F%8F%BC++in+programming;and+wanting+to+improve+%F0%9F%A6%BE" alt="Typing SVG" /></a>
+</p>
+
 <h3 align="center">A Junior Web developer from Cuba</h3>
 
 ---
