@@ -23,7 +23,7 @@
 
 <h3 align="center">🛠 Languages - Frameworks - Tools 🛠</h3> <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,sass,pug" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,vite,vscode" />
 </div><br>
