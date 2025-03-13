@@ -9,11 +9,11 @@
 
 <div align="center">
 
-  🔭 I’m currently working on [**EP_003-TresEnRaya**](https://github.com/mmoralheredia/EP_003-TresEnRaya)
+  🔭 I’m currently working on [**...**]()
   
   🌱 I’m currently learning **React and SQL**
 
-  👨‍💻 All of my projects are available at [**...**](...)
+  👨‍💻 All of my projects are available at [**...**]()
 
   📫 How to reach me **maikel.moral232@gmail.com**
 
